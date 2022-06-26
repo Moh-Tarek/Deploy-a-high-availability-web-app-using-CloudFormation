@@ -1,0 +1,1 @@
+http://Proje-WebAp-V7F8SXLCUPJI-1318414652.us-east-1.elb.amazonaws.com
