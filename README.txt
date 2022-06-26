@@ -44,3 +44,6 @@ It's up to you to decide which values should be parameters and which you will ha
 See the provided supporting code for help and more clues.
 If you want to go the extra mile, set up a bastion host (jump box) to allow you to SSH into your private subnet servers. This bastion host would be on a Public Subnet with port 22 open only to your home IP address, and it would need to have the private key that you use to access the other servers.
 Last thing: Remember to delete your CloudFormation stack when you're done to avoid recurring charges!
+
+
+The DNS for Load Balancer: http://Proje-WebAp-V7F8SXLCUPJI-1318414652.us-east-1.elb.amazonaws.com
